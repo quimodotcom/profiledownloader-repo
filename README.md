@@ -5,5 +5,5 @@ How do i create directory repo?
 		1) Screenshot of Profile
 		2) Name Of Profile
 		3) Description of Features of Profile
-		4) DownGit Link (Create a GitHub Repo Folder Download Link With https://yehonal.github.io/DownGit/#/home)
+		4) Link to the GitHub Repo that the profile.xml file is located at
 	Then you are all set, and will need to wait for a discord/java mod/dev to review your profile before the big upload!
